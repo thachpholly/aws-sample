@@ -1,9 +1,10 @@
 # aws-sample
 
 
-# Demo 
+# Create EC2 Instance
 
-#Install needed 
+# Connect to EC2 Instance do follow below steps
+
 
 ## Step 1: Install nodejs 
 ```
@@ -31,3 +32,5 @@ app.listen(port, () => {
 ```
 node app.js
 ```
+
+
