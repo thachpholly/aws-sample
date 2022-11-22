@@ -10,7 +10,7 @@
 sudo apt update && sudo apt install -y nodejs npm
 ```
 
-## Create a simple web server
+## Step 2: Create a simple web server
 ```
 nano app.js
 ```
