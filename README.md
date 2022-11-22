@@ -1,4 +1,5 @@
 # aws-sample
+This demo will demonstate how to create a webserver using AWS
 
 
 # Create EC2 Instance
@@ -45,4 +46,7 @@ app.listen(port, () => {
 node app.js
 ```
 
+# Test It
+
+Go to http://replace_with_your_ec2_public_ip:3000
 
