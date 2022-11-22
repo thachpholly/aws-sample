@@ -1,5 +1,5 @@
 # aws-sample
-This demo will demonstate how to create a webserver using AWS
+This demo will demonstate how we can use AWS to create a webserver.
 
 
 # Create EC2 Instance
