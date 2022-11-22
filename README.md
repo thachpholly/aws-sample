@@ -4,10 +4,16 @@
 # Demo 
 
 #Install needed 
+
+## Step 1: Install nodejs 
+```
 sudo apt update && sudo apt install -y nodejs npm
+```
 
+## Create a simple web server
+```
 nano app.js
-
+```
 
 ```
 const express = require('express')
@@ -21,4 +27,7 @@ app.listen(port, () => {
 })
 ```
 
+## Step 3: Run It
+```
 node app.js
+```
