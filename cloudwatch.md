@@ -2,11 +2,21 @@
 
 This section will demostrate how to config cloudwatch
 
-#
+## Install cloudwatch agent
+
+```
+wget https://s3.amazonaws.com/amazoncloudwatch-agent/ubuntu/amd64/latest/amazon-cloudwatch-agent.deb
+```
+```
+sudo dpkg -i -E ./amazon-cloudwatch-agent.deb
+```
+
+## Configuration cloudwatch agent
 
 ```
 sudo vim /opt/aws/amazon-cloudwatch-agent/bin/config.json
 ```
+
  ```
  {
      "agent": {
