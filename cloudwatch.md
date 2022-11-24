@@ -47,3 +47,8 @@ sudo vim /opt/aws/amazon-cloudwatch-agent/bin/config.json
 ```
 sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a fetch-config -m ec2 -c file:/opt/aws/amazon-cloudwatch-agent/bin/config.json -s
 ```
+
+## Open cloudwatch to see results
+[cloudwatch](https://ap-southeast-1.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-1#logsV2:log-groups/log-group/apache-log)
+
+
