@@ -7,5 +7,8 @@ This demo will demonstate how we can use most common services of AWS
 ## AWS S3 - Amazon Simple Storage Service
 [Upload and share file](S3.md)
 
+## AWS Cloudwatch
+[Config collect log then visual](cloudwatch.md)
+
 ## AWS RDS -  Amazon Relational Database Service
 [Create postgres and access it from webserver](RDS.md)
