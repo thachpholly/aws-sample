@@ -55,6 +55,7 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a fetch-c
 
 ### Option 2 : AWS toolkit
 
-[Eclipse](https://aws.amazon.com/vi/eclipse/)
-[Intellij](https://aws.amazon.com/intellij/)
+Eclipse: [Eclipse plugin](https://aws.amazon.com/vi/eclipse/)
+
+Intellij: [Intellij plugin](https://aws.amazon.com/intellij/)
 
