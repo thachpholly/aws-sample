@@ -49,6 +49,10 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a fetch-c
 ```
 
 ## Open cloudwatch to see results
+
+### Option 1 :
 [cloudwatch](https://ap-southeast-1.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-1#logsV2:log-groups/log-group/apache-log)
+
+### Option 2 : AWS toolkit
 
 
