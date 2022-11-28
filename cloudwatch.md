@@ -2,6 +2,10 @@
 
 This section will demostrate how to config cloudwatch
 
+![setup](Log%20collect%20setup.png)
+
+
+
 ## Install cloudwatch agent
 
 ```
